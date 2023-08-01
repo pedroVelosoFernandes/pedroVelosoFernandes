@@ -1,6 +1,13 @@
-### Hi there, my name is Pedro Henrique Veloso Fernandes
+### Hi there! My name is Pedro Henrique Veloso Fernandes
 
-<div style="display: inline_block"><br>
+- 👨‍💻 Student at UFCG/Brazil since 2022
+- 🐳 Blue team / Learning Pentest
+- Used to create 2D games at unity
+  
 ## i'm currently learning
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<div style="display: inline_block"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70"/>
 </div>
