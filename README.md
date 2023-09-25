@@ -1,7 +1,7 @@
 ### Hi there! My name is Pedro Henrique Veloso Fernandes
 
 - 👨‍💻 Student at UFCG/Brazil since 2022
-- 🐳 Blue team / Learning Pentest
+- Blue team / Learning Pentest
 - Used to create 2D games at unity
   
 ## i'm currently learning
