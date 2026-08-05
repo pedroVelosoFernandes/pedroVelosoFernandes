@@ -4,10 +4,6 @@
 
 </div>
 
----
-
-## About
-
 Software Engineer and Computer Science student at **Universidade Federal de Campina Grande (UFCG)** since 2022.
 
 I build backend and full-stack systems in **Java, Python, and TypeScript**, and I'm currently specializing in two areas: **cloud engineering on AWS** and **agentic LLM systems**, designing applications where language models plan, call tools, and act with real guardrails instead of just answering prompts.
@@ -18,7 +14,7 @@ I build backend and full-stack systems in **Java, Python, and TypeScript**, and 
 - 🧰 Comfortable across the stack: APIs, data modeling, caching, containers
 - 📬 Open to internships, junior roles, and open-source collaboration
 
----
+
 
 ## Tech Stack
 
@@ -48,7 +44,6 @@ I build backend and full-stack systems in **Java, Python, and TypeScript**, and 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
 ## Currently
 
